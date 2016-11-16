@@ -1,0 +1,163 @@
+
+@font-face {
+    font-family: Exo2;
+    src: url(../fonts/Exo2-Thin.otf)
+}
+@font-face {
+    font-family: Exothick;
+    src:url(../fonts/Exo2-Black.otf);
+}
+a.link{
+    margin-left: 30px;
+    font-family: Exo2 ;
+    color:limegreen;
+    font-size: 20px;
+
+}
+a.link:hover{
+    text-decoration: none;
+    color:greenyellow;
+}
+
+.linkposition{
+    margin-top:5%;
+    margin-left: 20%;
+}
+.link-leftalign{
+    margin-left: 50%;
+}
+.middlebody{
+    background-image: url("../Images/carimage.jpg");
+    -webkit-box-shadow: -1px 28px 29px -15px rgba(71,70,71,1);
+    -moz-box-shadow: -1px 28px 29px -15px rgba(71,70,71,1);
+    box-shadow: -1px 28px 29px -15px rgba(71,70,71,1);
+}
+.pagemidlow{
+    margin-left: 5px;
+    margin-top: 10px;
+    background-size: 200%;
+    background-image: url("../Images/topbackground.jpg");
+    border: 1px solid limegreen;
+}
+.page{
+    font-family: Exo2;
+    padding-bottom: 30px;
+}
+.searchbox{
+    background-color:#D24B4B;
+    padding-top:3px ;
+
+    margin-right: 2%;
+    padding-bottom:7%;
+    color:white;
+    -webkit-box-shadow: 1px -5px 33px 6px rgba(28,27,28,1);
+    -moz-box-shadow: 1px -5px 33px 6px rgba(28,27,28,1);
+    box-shadow: 1px -5px 33px 6px rgba(28,27,28,1);
+}
+.box{
+    padding-left: 10px;
+    margin-left: 30% ;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+hr{
+    margin-top: 1px;
+    margin-bottom: 7px;
+}
+p{
+    margin-top:9px;
+    margin-bottom:0px;
+}
+.text{
+    margin-top: 8%;
+    color: white;
+    font-family: Exothick;
+}
+.auctionbody {
+    margin-top: 5px;
+    background-image: url('../Images/bodyBack.jpg');
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.searchcar {
+    margin-top: 5px;
+    background-color:white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.pan-style{
+    padding-top: 10px;
+    height:370px;
+    overflow-y: auto;
+}
+.auctionlist{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid white;
+
+}
+.auctiondetail{
+    font-family: Exo2;
+    color: black;
+    background-color:ghostwhite ;
+
+}
+img.list{
+    border: 2px solid black;
+    width:100%;
+    height: 100% ;
+}
+.searchitem{
+    border: 1px solid limegreen;
+    margin-top:5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+.searchdesc{
+    background-color: transparent;
+    margin-top:30px;
+}
+.footerstart{
+    margin-top:10px;
+    background-size: 100%;
+    padding-bottom: 20px;
+    background-image: url('../Images/Background2.jpg')
+}
+.footerbottom{
+    color:ghostwhite;
+    margin-top:10px;
+    background-color: #47b243;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footerend{
+    color:ghostwhite;
+    margin-top:10px;
+    background-color: #109335;
+
+
+}
+img.small{
+    width:30%;
+    height: 30%;
+}
+a.footer{
+    color:white;
+}
+
+a.footer:hover{
+    color:black;
+    text-decoration: none;
+}
+.midbox{
+    margin-left:4%;
+}
+.partnerlogo{
+    width:13%;
+    height:13%;
+    margin-left: 40px;
+}
